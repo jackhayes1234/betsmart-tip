@@ -1,11 +1,11 @@
 {
   "published": true,
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "sport": "football",
-  "event": "Krylia Sovetov v Rodina Moskva",
-  "selection": "Over 2.5 Goals",
+  "event": "AIK Stockholm v Vasteras SK FK",
+  "selection": "Over 7.5 Total Corners",
   "market": "Value",
-  "odds": "1.73",
-  "book": "1xBet",
-  "note": "Krylia Sovetov average 1.66 goals scored per game Rodina Moskva average 1.16 goals scored per game Krylia Sovetov concede an average of 1.85 per game Rodina Moskva concede an aver\u2026"
+  "odds": "1.80",
+  "book": "Bet365",
+  "note": "Model projects ~9.4 total corners from attacking volume Derived from both teams' expected-goals output _Model estimate \u2014 no live corner data; check your bookmaker_"
 }
