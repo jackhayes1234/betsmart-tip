@@ -1,11 +1,11 @@
 {
   "published": true,
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "sport": "football",
-  "event": "Plzen v Sigma Olomouc",
-  "selection": "Over 8.5 Total Corners",
+  "event": "Banfield v Barracas Central",
+  "selection": "Over 6.5 Total Corners",
   "market": "Value",
-  "odds": "1.85",
+  "odds": "1.73",
   "book": "Bet365",
-  "note": "Model projects ~10.1 total corners from attacking volume Derived from both teams' expected-goals output _Model estimate \u2014 no live corner data; check your bookmaker_"
+  "note": "Model projects ~8.0 total corners from attacking volume Derived from both teams' expected-goals output _Model estimate \u2014 no live corner data; check your bookmaker_"
 }
