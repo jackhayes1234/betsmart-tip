@@ -1,3 +1,11 @@
 {
-  "published": false
+  "published": true,
+  "date": "2026-10-02",
+  "sport": "football",
+  "event": "Dundalk v Bohemians",
+  "selection": "Bohemians to Win Either Half",
+  "market": "Safe",
+  "odds": "1.50",
+  "book": "Bet365",
+  "note": "At least one half won \u2014 1st 49%, 2nd 53% Half split assumes \u224845% of goals pre-break"
 }
